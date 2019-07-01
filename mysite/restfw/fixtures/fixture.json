@@ -1,0 +1,17 @@
+[
+ {
+     "pk": 1,
+     "model": "User",
+     "fields": {
+         "last_login": "2015-01-01 12:00:01",
+         "first_name": "Foo",
+         "last_name": "Bar",
+         "email": "foo@bar.com",
+         "username": "foo-bar",
+         "password": "pbkdf2_sha256$12000$dorVQDTmqYxy$LXd3sWSksHeKu1E2eaUGg/mmQI7d4din1g9JPfdU8bs=",
+         "is_active": true,
+         "is_staff": true,
+         "is_superuser": false
+     }
+ }
+]
